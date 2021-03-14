@@ -931,7 +931,7 @@ footer .footer-name {
     #home {
         display: flex;
         flex-direction: column;
-        height: 120vh;
+        height: 127vh;
     }
     .home .face-container {
         margin-left: 110px;
